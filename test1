@@ -1,0 +1,2 @@
+a = "Test file for my coding start";
+print a
